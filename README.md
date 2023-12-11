@@ -27,11 +27,11 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0CT0PUCE-LOG&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0CT0PUCE-LOG&theme=tokyonight" height="180em" />
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0CT0PUCE-LOG&theme=tokyonight" height="180em" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HWANGAK&theme=tokyonight&hide=other&hide_border=true&border_radius=30&card_width=700px)](https://github.com/anuraghazra/github-readme-stats)"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HWANGAK&theme=tokyonight&hide=other&hide_border=true&border_radius=30&custom_title=WakaTime%20Stats&layout=compact&langs_count=13&hide_title=true&card_width=700px)](https://github.com/anuraghazra/github-readme-stats"/>
+
 
 </div>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=0CT0PUCE-LOG&label=Profile%20views&color=0e75b6&style=flat" alt="0CT0PUCE-LOG" /> </p>
 
-[![](https://visitcount.itsvg.in/api?id=0CT0PUCE-LOG&icon=0&color=0)](https://visitcount.itsvg.in)
 [![wakatime](https://wakatime.com/badge/user/eb7ce746-ca32-4b13-bd81-c302fffe4f7e.svg)](https://wakatime.com/@eb7ce746-ca32-4b13-bd81-c302fffe4f7e)
