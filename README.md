@@ -36,9 +36,9 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
 <a href="https://github.com/0CT0PUCE-LOG">
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=0CT0PUCE-LOG&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0CT0PUCE-LOG&theme=tokyonight" height="180em" />
-<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0CT0PUCE-LOG&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Soren-Starck&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Soren-Starck&theme=tokyonight" height="180em" />
+<img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Soren-Starck&theme=tokyonight" height="180em" />
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=HWANGAK&theme=tokyonight&hide=other&hide_border=true&border_radius=30&custom_title=WakaTime%20Stats&layout=compact&langs_count=13&hide_title=true&card_width=700px)](https://github.com/anuraghazra/github-readme-stats"/>
 
 
