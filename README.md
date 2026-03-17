@@ -2,7 +2,7 @@
 
 ## Current Projects
 
-- 📊 **[Session Watcher](https://sessionwatcher.com)** - macOS menu bar app for monitoring token usage and costs for Claude Code and Codex
+- 📊 **[Session Watcher](https://sessionwatcher.com)** - macOS menu bar app for monitoring token usage and costs for Claude Code and Codex, 165+ paying customers
 - 🐢 **[Turtlebar](https://turtlebar.app)** - Mac menu bar app that automates Low Power Mode with toggles, app triggers, and battery predictions
 - 🚀 **LaunchRelay** - SaaS to serve self-ads across all your products
 - 📬 **[Mail2Do](https://mail2do.org)** - Turn emails into actionable tasks automatically
