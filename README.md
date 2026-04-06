@@ -2,6 +2,7 @@
 
 ## Current Projects
 
+- 🎨 **[Mockup Stage](https://github.com/Soren-Starck/Nano-Banana-Mockup)** - AI-powered SaaS that generates photorealistic website mockups in seconds, powered by Nano Banana Pro (Gemini)
 - 📊 **[Session Watcher](https://sessionwatcher.com)** - macOS menu bar app for monitoring token usage and costs for Claude Code and Codex, 165+ paying customers
 - 🪑 **[UbiSit](https://ubisit.forge.apps.education.fr/ubisit-plan-de-classe-aleatoire/)** - Free and open-source app for creating classroom seating plans, open source - 20,000+ users
 - 💾 **[Disk Usage](https://github.com/Soren-Starck/gnome-shell-extension-disk-usage)** - Shows disk usage in GNOME panel, open source - 7,200+ users
