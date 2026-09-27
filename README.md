@@ -3,6 +3,7 @@
 ## Current Projects
 
 - 📊 **[Session Watcher](https://sessionwatcher.com)** - macOS menu bar app for monitoring token usage and costs for Claude Code and Codex, 771+ paying customers
+- ⚓ **[Moorline](https://www.moorline.app/?ref=github.com)** - Native Mac customer support app for solo software founders. Reads the mailbox you already have and keeps every customer on the list until the fix has shipped and they have been told
 - 🎓 **[ImproveGrade](https://improvegrade.com)** - Free tool to calculate weighted university grade averages and simulate target grades
 - 🪑 **[UbiSit](https://ubisit.forge.apps.education.fr/ubisit-plan-de-classe-aleatoire/)** - Free and open-source app for creating classroom seating plans, open source - 20,000+ users
 - 💾 **[Disk Usage](https://github.com/Soren-Starck/gnome-shell-extension-disk-usage)** - Shows disk usage in GNOME panel, open source - 7,200+ users
