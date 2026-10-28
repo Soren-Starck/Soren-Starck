@@ -8,7 +8,7 @@
 
 ## Free for teachers and students
 
-- 🪑 **[UbiSit](https://ubisit.forge.apps.education.fr/ubisit-plan-de-classe-aleatoire/?ref=github.com)**: classroom seating plans for teachers. Draw the room, import the class (straight from Pronote with its browser extension), then seat students at random or by hand. Free and open source; student lists never leave the computer. 30,172 visits since February 2024
+- 🪑 **[UbiSit](https://ubisit.forge.apps.education.fr/ubisit-plan-de-classe-aleatoire/?ref=github.com)**: classroom seating plans for teachers. Draw the room, import the class (straight from Pronote with its browser extension), then seat students at random or by hand. Free and open source; student lists never leave the computer. 30,179 visits since February 2024
 - 🎓 **[ImproveGrade](https://improvegrade.com/?ref=github.com)**: grade calculator for French university students, with official coefficients, exams, coursework and labs, and the grade to aim for in each subject
 
 ## Open source
